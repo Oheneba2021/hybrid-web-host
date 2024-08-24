@@ -1,0 +1,74 @@
+body {
+    background-color: #fff;
+}
+
+.about-hero {
+    padding: 0 10%;
+    height:100vh;
+    padding-block: 150px;
+    //background-color: #fcf7ba;
+    //background-color: #fcf7ba;
+    border-bottom: 1.2px dashed darkgreen;
+	background-image:url('../images/Anniversary/anniversary-35.JPG');
+	background-size:cover;
+	background-size:bottom;
+}
+
+.about-hero h1 {
+    font-size: 65px;
+    text-align: center;
+    color: #ff6854;
+}
+
+.about-hero h4 {
+    text-align: center;
+    letter-spacing: 1.22em;
+    margin-bottom: 25px;
+}
+
+.abt-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #fff;
+    padding: 0 10%;
+    padding-block: 50px;
+}
+
+.abt-image {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.abt-image img{
+    width:500px;
+}
+
+.abt-text h1 {
+    color: darkgreen;
+    font-size: 32px;
+}
+
+.abt-text p {
+    margin-top: 25px;
+}
+
+.abt-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.mission- {
+    margin-top: 50px;
+}
+
+.mission- p,
+.mission p {
+    margin-top: 10px;
+}
+
+
