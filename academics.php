@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="digital-image">
-                <img src="./images/Anniversary/anniversary-2.JPG" alt="">
+                <img src="./images/Anniversary/anniversary-2.jpg" alt="">
             </div>
         </div>
     </section>
@@ -66,7 +66,7 @@
     <section>
         <div class="printing-grid">
             <div class="printing-images">
-                <img src="./images/Anniversary/anniversary-17.JPG" alt="">
+                <img src="./images/Anniversary/anniversary-17.jpg" alt="">
             </div>
             <div class="printing-text">
                 <h1>Primary</h1>
@@ -137,7 +137,7 @@
                 </div>
             </div>
             <div class="digital-image">
-                <img src="./images/Anniversary/anniversary-12.JPG" alt="">
+                <img src="./images/Anniversary/anniversary-12.jpg" alt="">
             </div>
         </div>
     </section>

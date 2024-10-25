@@ -69,48 +69,48 @@
 	}
 	
 	.swipe-3{
-		background-image:url('./images/swiper/swiper-16.JPG');
+		background-image:url('./images/swiper/swiper-16.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-4{
-		background-image:url('./images/swiper/swiper-17.JPG');
+		background-image:url('./images/swiper/swiper-17.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	.swipe-5{
-		background-image:url('./images/swiper/swiper-11.JPG');
+		background-image:url('./images/swiper/swiper-11.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-6{
-		background-image:url('./images/swiper/swiper-18.JPG');
+		background-image:url('./images/swiper/swiper-18.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-7{
-		background-image:url('./images/swiper/swiper-10.JPG');
+		background-image:url('./images/swiper/swiper-10.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-8{
-		background-image:url('./images/swiper/swiper-12.JPG');
+		background-image:url('./images/swiper/swiper-12.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-9{
-		background-image:url('./images/swiper/swiper-13.JPG');
+		background-image:url('./images/swiper/swiper-13.jpg');
 		background-size:cover;
 		background-position:center;
 	}
 	
 	.swipe-10{
-		background-image:url('./images/swiper/swiper-19.JPG');
+		background-image:url('./images/swiper/swiper-19.jpg');
 		background-size:cover;
 		background-position:center;
 	}
@@ -330,7 +330,7 @@
 					
 				</div>
 				<div class="about-image" data-aos="fade-down" data-aos-duration="1500" id="watch">
-					<img src="./images/students/students-5.JPG" alt="">
+					<img src="./images/students/students-5.jpg" alt="">
 				</div>
 			</div>
 		</section>
@@ -342,7 +342,7 @@
 				</div>-->
 				<div class="services-grid">
 					<div class="service" data-aos="fade-right" data-aos-duration="1900">
-						<div class="service-image" style="background-image: url('./images/Anniversary/anniversary-27.JPG'); background-position:center;"></div>
+						<div class="service-image" style="background-image: url('./images/Anniversary/anniversary-27.jpg'); background-position:center;"></div>
 						<div class="service-details">
 							<h1>PreSchool</h1>
 							<p>
